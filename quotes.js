@@ -263,13 +263,22 @@ const QUOTEBANK = [{
           author: "Platón"
         },
         {
-          quote:"Un hombre que alaba a un hombre en su cara está lleno de motivos ocultos",
-          author:"Senku Ichigami"
+          quote: "It's a slow but steady effort. I'm going to beat fantasy with science.This is exhilaranting",
+          author: "Senku Ichigami"
         },
         {
-          quote:"A veces hay que dejar de lado el orgullo y hacer lo que se nos pide.",
-          author:"Anakin Skywalker"
+          quote: "I don't like sand. It's coarse and rough and irritating...and it gets everywhere.",
+          author: "Anakin Skywalker"
+        },
+        {
+          quote: "You underestimate the power of the dark side",
+          author: "Darth Vader"
+        },
+        {
+          quote: "Too much fantasy loses reality, too much hope may seem somehow empty.",
+          author: "Akira Toriyama"
         }
+
           
         
 
